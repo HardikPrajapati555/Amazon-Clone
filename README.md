@@ -1,1 +1,1 @@
-# Amazon-Clone
+echo "# Amazon-clone" >> README.md
